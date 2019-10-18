@@ -1,5 +1,6 @@
 # Welcome! 
 
+THIS IS A WORK IN PROGRESS 
 This is the future home of training curriculum produced by the Training Working Group of the International Internet Preservation Consortium (IIPC), in conjunction with the Digital Preservation Coalition (DPC). For more information about the working group activities see http://netpreserve.org/about-us/working-groups/training-working-group/ 
 
 # Introduction
@@ -22,7 +23,8 @@ The following table includes a list of potential audiences for this training. In
 
 # Resources Included
 
-This course contains 8 sessions in total, with session 3 broken into sub-sections due to length. For each session there are presentation slides, accompanied by complete speaker notes. Most of the sessions include discussion questions to encourage attendee interaction, and two sessions also include group work exercises (sessions 5 and 8) for which guidance notes and worksheets are available as appropriate. A complete listing of the training sessions is included in the table below.
+This course contains 8 sessions in total, with session 3 broken into sub-sections due to length. For each session there are presentation slides, accompanied by complete speaker notes. Most of the sessions include discussion questions to encourage attendee interaction, and two sessions also include group work exercises (sessions 5 and 8) for which guidance notes and worksheets are available as appropriate. 
+[LINKS TO MODULE PAGES]
 
 # Customizing the Training
 
